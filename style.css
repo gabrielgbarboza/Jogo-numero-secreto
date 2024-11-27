@@ -21,14 +21,14 @@ body::before {
     content: "";
     display: block;
     position: absolute;
-    width: 90%;
+    width: 100%;
     height: 90%;
     opacity: 0.4;
 }
 
 .container {
-    width: 70%;
-    height: 70%;
+    width: 80%;
+    height: 80%;
     display: flex;
     align-items: center;
     justify-content: space-between;
